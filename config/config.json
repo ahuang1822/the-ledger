@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "the-ledger-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "the-ledger-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "the-ledger-prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
